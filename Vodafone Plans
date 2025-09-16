@@ -1,0 +1,34 @@
+{
+  "$79 BYOD 24 Month Plan" : {
+    "Term" : "24",
+    "Monthly Cost" : 79,
+    "AdjustedCost" : 896,
+    "Discount" : 1000,
+    "CIS" : "https:\/\/www.vodafone.com.au\/cis\/mobile-phone-plans\/24-and-36-month-sim-only-plans\/au12615-au12616-au12617-vodafone-byod-plans.pdf",
+    "Plan Term Total" : 1896
+  },
+  "$69 BYOD 24 Month Plan" : {
+    "Term" : "24",
+    "Monthly Cost" : 69,
+    "AdjustedCost" : 656,
+    "Discount" : 1000,
+    "CIS" : "https:\/\/www.vodafone.com.au\/cis\/mobile-phone-plans\/12-and-24-month-sim-only-plans\/vodafone-69-byod-24-months-plans-au12518.pdf",
+    "Plan Term Total" : 1656
+  },
+  "$79 BYOD 36 Month Plan" : {
+    "Term" : "36",
+    "Monthly Cost" : 79,
+    "AdjustedCost" : 1245,
+    "Discount" : 1599,
+    "CIS" : "https:\/\/www.vodafone.com.au\/cis\/mobile-phone-plans\/24-and-36-month-sim-only-plans\/au12615-au12616-au12617-vodafone-byod-plans.pdf",
+    "Plan Term Total" : 2844
+  },
+  "$69 BYOD 36 Month Plan" : {
+    "Term" : "36",
+    "Monthly Cost" : "69",
+    "AdjustedCost" : 1085,
+    "Discount" : 1399,
+    "CIS" : "https:\/\/www.vodafone.com.au\/cis\/mobile-phone-plans\/24-and-36-month-sim-only-plans\/au12615-au12616-au12617-vodafone-byod-plans.pdf",
+    "Plan Term Total" : 2484
+  }
+}
