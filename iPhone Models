@@ -1,0 +1,61 @@
+{
+  "iPhone 17 Pro" : {
+    "Storage" : {
+      "256GB" : 1999,
+      "512GB" : 2399,
+      "1TB" : 2799
+    },
+    "image" :""
+
+  },
+  "iPhone 17 Pro Max" : {
+    "Storage" : {
+      "256GB" : 2199,
+      "512GB" : 2599,
+      "1TB" : 2999,
+      "2TB" : 3799
+    },
+    "image" :""
+
+  },
+  "iPhone Air" : {
+    "Storage" : {
+      "256GB" : 1799,
+      "512GB" : 2199,
+      "1TB" : 2599
+    },
+    "image" :""
+
+  },
+  "iPhone 17" : {
+    "Storage" : {
+      "256GB" : 1399,
+      "512GB" : 1799
+    },
+    "image" :""
+  },
+
+  "iPhone 16" : {
+    "Storage" : {
+      "128GB" : 1249
+    },
+    "image" :""
+    },
+
+  "iPhone 16 Plus" : {
+    "Storage" : {
+      "128GB" : 1399,
+      "256GB" : 1599
+    },
+    "image" :""
+  },
+
+  "iPhone 16e" : {
+    "Storage" : {
+      "128GB" : 999,
+      "256GB" : 1199,
+      "512GB" : 1599
+    },
+    "image" :""
+  }
+}
